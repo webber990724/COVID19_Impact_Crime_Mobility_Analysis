@@ -1,9 +1,9 @@
 # COVID19 Impact on Crime and Mobility in London  
-**License**: ODbLv1.0  
-
-**Lifecycle**: stable  
-
-GitHub Stars | Issues | Release Activity | Commit Activity | Last Commit  
+![License](https://img.shields.io/badge/license-ODbLv1.0-blue)
+![Lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/webber990724/COVID19_Impact_Crime_Mobility_Analysis?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/webber990724/COVID19_Impact_Crime_Mobility_Analysis)
+![Issues](https://img.shields.io/github/issues/webber990724/COVID19_Impact_Crime_Mobility_Analysis)
 
 ## **Overview**  
 **COVID19 Impact on Crime and Mobility in London** is an open code product designed for spatio-temporal analysis of crime and mobility data during the COVID-19 lockdowns in London. This repository includes:  
